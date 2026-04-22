@@ -1,0 +1,15 @@
+# Type Master - Requirements
+# This project uses Python standard library modules
+
+# Standard Library (no pip install needed):
+# - tkinter (GUI framework) - included with Python on Windows/macOS
+# - math (mathematical functions)
+# - random (random number generation)
+
+# For Linux users who need to install tkinter separately:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# Arch: sudo pacman -S tk
+
+# No external pip packages required
+# Python Version: 3.7+
