@@ -11,6 +11,9 @@ Typing Master is a Python application designed to help users improve typing spee
 ## 🎥 Demo
 ![Typing Master Demo](assets/demo.gif)
 
+## 📘 Documentation
+For detailed information about functions, classes, and return types, see:  
+👉 [Functions Documentation](docs/functions.md)
 
 ## 🚀 Features
 - **Interactive GUI** built with Tkinter  
